@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Dashboard interativo de análise de vendas com indicadores, filtros e gráficos.">
+  <title>DataPulse | Análise de Vendas</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand" href="#" aria-label="DataPulse início">
+        <span class="brand-mark">D</span><span>Data<span class="brand-light">Pulse</span></span>
+      </a>
+      <div class="side-label">WORKSPACE</div>
+      <a class="nav-item active" href="#overview"><span>▦</span> Visão geral</a>
+      <a class="nav-item" href="#insights"><span>◫</span> Indicadores</a>
+      <a class="nav-item" href="#details"><span>▤</span> Dados detalhados</a>
+      <div class="sidebar-note">
+        <span class="status-dot"></span>
+        <div><strong>Dados de demonstração</strong><small>Base fictícia • 2025</small></div>
+      </div>
+      <div class="side-footer">PROJETO DE PORTFÓLIO<br>ANÁLISE DE DADOS</div>
+    </aside>
+
+    <main class="main-content" id="overview">
+      <header class="topbar">
+        <div>
+          <div class="eyebrow">PAINEL ANALÍTICO / VENDAS</div>
+          <h1>Visão geral</h1>
+          <p class="subtitle">Acompanhe o desempenho comercial e explore os dados.</p>
+        </div>
+        <div class="top-actions">
+          <span class="date-chip">▣ &nbsp; Janeiro — Dezembro 2025</span>
+          <button class="export-btn" id="exportBtn">↓ <span>Exportar CSV</span></button>
+        </div>
+      </header>
+
+      <section class="filters panel">
+        <div class="filter-heading"><span class="filter-icon">⌁</span><strong>Filtros</strong><small>Refine os resultados do painel</small></div>
+        <label>PERÍODO<select id="monthFilter"><option value="all">Todo o ano</option></select></label>
+        <label>CATEGORIA<select id="categoryFilter"><option value="all">Todas</option></select></label>
+        <label>REGIÃO<select id="regionFilter"><option value="all">Todas</option></select></label>
+        <button class="reset-btn" id="resetBtn">↺ Limpar filtros</button>
+      </section>
+
+      <section class="kpi-grid" id="insights">
+        <article class="kpi-card">
+          <div class="kpi-top"><span>FATURAMENTO TOTAL</span><span class="kpi-icon purple">↗</span></div>
+          <div class="kpi-value" id="revenueKpi">—</div><div class="kpi-foot"><span class="accent-dot"></span> Receita no período filtrado</div>
+        </article>
+        <article class="kpi-card">
+          <div class="kpi-top"><span>PEDIDOS</span><span class="kpi-icon blue">▤</span></div>
+          <div class="kpi-value" id="ordersKpi">—</div><div class="kpi-foot">Quantidade de vendas registradas</div>
+        </article>
+        <article class="kpi-card">
+          <div class="kpi-top"><span>TICKET MÉDIO</span><span class="kpi-icon orange">◎</span></div>
+          <div class="kpi-value" id="ticketKpi">—</div><div class="kpi-foot">Faturamento por pedido</div>
+        </article>
+        <article class="kpi-card">
+          <div class="kpi-top"><span>UNIDADES VENDIDAS</span><span class="kpi-icon green">▥</span></div>
+          <div class="kpi-value" id="unitsKpi">—</div><div class="kpi-foot">Soma das quantidades vendidas</div>
+        </article>
+      </section>
+
+      <section class="chart-grid">
+        <article class="panel chart-panel wide">
+          <div class="panel-heading"><div><h2>Evolução do faturamento</h2><p>Receita mensal no período selecionado</p></div><span class="chart-tag">TENDÊNCIA</span></div>
+          <div class="chart-wrap line-wrap"><canvas id="revenueChart" aria-label="Gráfico de faturamento mensal"></canvas></div>
+        </article>
+        <article class="panel chart-panel">
+          <div class="panel-heading"><div><h2>Vendas por categoria</h2><p>Distribuição do faturamento</p></div></div>
+          <div class="chart-wrap doughnut-wrap"><canvas id="categoryChart" aria-label="Gráfico de vendas por categoria"></canvas></div>
+          <div id="categoryLegend" class="legend-list"></div>
+        </article>
+        <article class="panel chart-panel">
+          <div class="panel-heading"><div><h2>Faturamento por região</h2><p>Comparativo entre localidades</p></div></div>
+          <div class="chart-wrap bar-wrap"><canvas id="regionChart" aria-label="Gráfico de faturamento por região"></canvas></div>
+        </article>
+      </section>
+
+      <section class="panel table-panel" id="details">
+        <div class="panel-heading table-heading"><div><h2>Últimas vendas</h2><p>Registros correspondentes aos filtros aplicados</p></div><span class="record-count" id="recordCount">0 registros</span></div>
+        <div class="table-scroll"><table><thead><tr><th>PEDIDO</th><th>MÊS</th><th>PRODUTO</th><th>CATEGORIA</th><th>REGIÃO</th><th>QTD.</th><th>FATURAMENTO</th></tr></thead><tbody id="salesTable"></tbody></table></div>
+        <div class="table-foot">Exibindo até 10 registros • Base demonstrativa</div>
+      </section>
+      <footer>DataPulse Dashboard <span>•</span> Desenvolvido para fins educacionais e portfólio <span>•</span> 2025</footer>
+    </main>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
