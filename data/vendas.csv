@@ -1,0 +1,217 @@
+mes,mes_label,pedido,regiao,categoria,produto,quantidade,preco_unitario,faturamento
+2025-01,Jan/25,PED-01-001,Recife,Eletrônicos,Fone Bluetooth,1,122.50,122.50
+2025-01,Jan/25,PED-01-002,Caruaru,Casa,Cafeteira,3,213.17,639.51
+2025-01,Jan/25,PED-01-003,Petrolina,Papelaria,Caneta premium,2,20.46,40.92
+2025-01,Jan/25,PED-01-004,Olinda,Acessórios,Capa protetora,5,28.42,142.10
+2025-01,Jan/25,PED-01-005,Recife,Eletrônicos,Fone Bluetooth,4,122.60,490.40
+2025-01,Jan/25,PED-01-006,Caruaru,Casa,Cafeteira,1,212.48,212.48
+2025-01,Jan/25,PED-01-007,Petrolina,Papelaria,Caneta premium,5,20.14,100.70
+2025-01,Jan/25,PED-01-008,Olinda,Acessórios,Capa protetora,5,28.82,144.10
+2025-01,Jan/25,PED-01-009,Recife,Eletrônicos,Fone Bluetooth,5,128.65,643.25
+2025-01,Jan/25,PED-01-010,Caruaru,Casa,Cafeteira,4,222.26,889.04
+2025-01,Jan/25,PED-01-011,Petrolina,Papelaria,Caneta premium,1,20.52,20.52
+2025-01,Jan/25,PED-01-012,Olinda,Acessórios,Capa protetora,2,30.61,61.22
+2025-01,Jan/25,PED-01-013,Recife,Eletrônicos,Fone Bluetooth,3,126.44,379.32
+2025-01,Jan/25,PED-01-014,Caruaru,Casa,Cafeteira,2,231.96,463.92
+2025-01,Jan/25,PED-01-015,Petrolina,Papelaria,Caneta premium,3,18.95,56.85
+2025-01,Jan/25,PED-01-016,Olinda,Acessórios,Capa protetora,4,28.45,113.80
+2025-01,Jan/25,PED-01-017,Recife,Eletrônicos,Fone Bluetooth,3,131.52,394.56
+2025-01,Jan/25,PED-01-018,Caruaru,Casa,Cafeteira,1,225.96,225.96
+2025-02,Fev/25,PED-02-001,Caruaru,Casa,Luminária LED,5,95.40,477.00
+2025-02,Fev/25,PED-02-002,Petrolina,Papelaria,Caderno,4,28.39,113.56
+2025-02,Fev/25,PED-02-003,Olinda,Acessórios,Bolsa,3,145.43,436.29
+2025-02,Fev/25,PED-02-004,Recife,Eletrônicos,Teclado compacto,5,156.83,784.15
+2025-02,Fev/25,PED-02-005,Caruaru,Casa,Luminária LED,3,100.83,302.49
+2025-02,Fev/25,PED-02-006,Petrolina,Papelaria,Caderno,1,28.27,28.27
+2025-02,Fev/25,PED-02-007,Olinda,Acessórios,Bolsa,2,144.48,288.96
+2025-02,Fev/25,PED-02-008,Recife,Eletrônicos,Teclado compacto,1,156.29,156.29
+2025-02,Fev/25,PED-02-009,Caruaru,Casa,Luminária LED,1,98.46,98.46
+2025-02,Fev/25,PED-02-010,Petrolina,Papelaria,Caderno,4,30.39,121.56
+2025-02,Fev/25,PED-02-011,Olinda,Acessórios,Bolsa,3,134.24,402.72
+2025-02,Fev/25,PED-02-012,Recife,Eletrônicos,Teclado compacto,3,144.67,434.01
+2025-02,Fev/25,PED-02-013,Caruaru,Casa,Luminária LED,3,102.32,306.96
+2025-02,Fev/25,PED-02-014,Petrolina,Papelaria,Caderno,1,30.29,30.29
+2025-02,Fev/25,PED-02-015,Olinda,Acessórios,Bolsa,2,140.47,280.94
+2025-02,Fev/25,PED-02-016,Recife,Eletrônicos,Teclado compacto,2,143.85,287.70
+2025-02,Fev/25,PED-02-017,Caruaru,Casa,Luminária LED,4,97.14,388.56
+2025-02,Fev/25,PED-02-018,Petrolina,Papelaria,Caderno,5,28.89,144.45
+2025-03,Mar/25,PED-03-001,Petrolina,Papelaria,Caneta premium,3,20.72,62.16
+2025-03,Mar/25,PED-03-002,Olinda,Acessórios,Capa protetora,1,28.93,28.93
+2025-03,Mar/25,PED-03-003,Recife,Eletrônicos,Fone Bluetooth,1,134.66,134.66
+2025-03,Mar/25,PED-03-004,Caruaru,Casa,Cafeteira,4,213.77,855.08
+2025-03,Mar/25,PED-03-005,Petrolina,Papelaria,Caneta premium,2,20.89,41.78
+2025-03,Mar/25,PED-03-006,Olinda,Acessórios,Capa protetora,5,31.25,156.25
+2025-03,Mar/25,PED-03-007,Recife,Eletrônicos,Fone Bluetooth,3,125.42,376.26
+2025-03,Mar/25,PED-03-008,Caruaru,Casa,Cafeteira,4,217.15,868.60
+2025-03,Mar/25,PED-03-009,Petrolina,Papelaria,Caneta premium,4,19.05,76.20
+2025-03,Mar/25,PED-03-010,Olinda,Acessórios,Capa protetora,2,28.99,57.98
+2025-03,Mar/25,PED-03-011,Recife,Eletrônicos,Fone Bluetooth,5,130.51,652.55
+2025-03,Mar/25,PED-03-012,Caruaru,Casa,Cafeteira,5,218.01,1090.05
+2025-03,Mar/25,PED-03-013,Petrolina,Papelaria,Caneta premium,5,19.66,98.30
+2025-03,Mar/25,PED-03-014,Olinda,Acessórios,Capa protetora,2,31.68,63.36
+2025-03,Mar/25,PED-03-015,Recife,Eletrônicos,Fone Bluetooth,2,130.05,260.10
+2025-03,Mar/25,PED-03-016,Caruaru,Casa,Cafeteira,1,226.65,226.65
+2025-03,Mar/25,PED-03-017,Petrolina,Papelaria,Caneta premium,1,19.07,19.07
+2025-03,Mar/25,PED-03-018,Olinda,Acessórios,Capa protetora,2,30.95,61.90
+2025-04,Abr/25,PED-04-001,Olinda,Acessórios,Bolsa,4,141.52,566.08
+2025-04,Abr/25,PED-04-002,Recife,Eletrônicos,Teclado compacto,4,147.77,591.08
+2025-04,Abr/25,PED-04-003,Caruaru,Casa,Luminária LED,4,100.25,401.00
+2025-04,Abr/25,PED-04-004,Petrolina,Papelaria,Caderno,5,31.19,155.95
+2025-04,Abr/25,PED-04-005,Olinda,Acessórios,Bolsa,1,142.93,142.93
+2025-04,Abr/25,PED-04-006,Recife,Eletrônicos,Teclado compacto,1,153.17,153.17
+2025-04,Abr/25,PED-04-007,Caruaru,Casa,Luminária LED,5,102.91,514.55
+2025-04,Abr/25,PED-04-008,Petrolina,Papelaria,Caderno,3,28.51,85.53
+2025-04,Abr/25,PED-04-009,Olinda,Acessórios,Bolsa,4,134.16,536.64
+2025-04,Abr/25,PED-04-010,Recife,Eletrônicos,Teclado compacto,1,158.06,158.06
+2025-04,Abr/25,PED-04-011,Caruaru,Casa,Luminária LED,3,105.56,316.68
+2025-04,Abr/25,PED-04-012,Petrolina,Papelaria,Caderno,2,29.93,59.86
+2025-04,Abr/25,PED-04-013,Olinda,Acessórios,Bolsa,1,146.12,146.12
+2025-04,Abr/25,PED-04-014,Recife,Eletrônicos,Teclado compacto,3,156.05,468.15
+2025-04,Abr/25,PED-04-015,Caruaru,Casa,Luminária LED,5,101.21,506.05
+2025-04,Abr/25,PED-04-016,Petrolina,Papelaria,Caderno,2,29.45,58.90
+2025-04,Abr/25,PED-04-017,Olinda,Acessórios,Bolsa,2,140.56,281.12
+2025-04,Abr/25,PED-04-018,Recife,Eletrônicos,Teclado compacto,5,157.43,787.15
+2025-05,Mai/25,PED-05-001,Recife,Eletrônicos,Fone Bluetooth,5,127.16,635.80
+2025-05,Mai/25,PED-05-002,Caruaru,Casa,Cafeteira,1,209.66,209.66
+2025-05,Mai/25,PED-05-003,Petrolina,Papelaria,Caneta premium,3,20.80,62.40
+2025-05,Mai/25,PED-05-004,Olinda,Acessórios,Capa protetora,3,28.97,86.91
+2025-05,Mai/25,PED-05-005,Recife,Eletrônicos,Fone Bluetooth,2,135.79,271.58
+2025-05,Mai/25,PED-05-006,Caruaru,Casa,Cafeteira,1,208.97,208.97
+2025-05,Mai/25,PED-05-007,Petrolina,Papelaria,Caneta premium,4,20.65,82.60
+2025-05,Mai/25,PED-05-008,Olinda,Acessórios,Capa protetora,5,30.85,154.25
+2025-05,Mai/25,PED-05-009,Recife,Eletrônicos,Fone Bluetooth,2,132.39,264.78
+2025-05,Mai/25,PED-05-010,Caruaru,Casa,Cafeteira,5,211.06,1055.30
+2025-05,Mai/25,PED-05-011,Petrolina,Papelaria,Caneta premium,5,20.79,103.95
+2025-05,Mai/25,PED-05-012,Olinda,Acessórios,Capa protetora,4,31.57,126.28
+2025-05,Mai/25,PED-05-013,Recife,Eletrônicos,Fone Bluetooth,5,133.88,669.40
+2025-05,Mai/25,PED-05-014,Caruaru,Casa,Cafeteira,2,225.52,451.04
+2025-05,Mai/25,PED-05-015,Petrolina,Papelaria,Caneta premium,4,21.08,84.32
+2025-05,Mai/25,PED-05-016,Olinda,Acessórios,Capa protetora,3,29.68,89.04
+2025-05,Mai/25,PED-05-017,Recife,Eletrônicos,Fone Bluetooth,5,129.14,645.70
+2025-05,Mai/25,PED-05-018,Caruaru,Casa,Cafeteira,2,212.64,425.28
+2025-06,Jun/25,PED-06-001,Caruaru,Casa,Luminária LED,3,94.16,282.48
+2025-06,Jun/25,PED-06-002,Petrolina,Papelaria,Caderno,5,28.93,144.65
+2025-06,Jun/25,PED-06-003,Olinda,Acessórios,Bolsa,2,131.63,263.26
+2025-06,Jun/25,PED-06-004,Recife,Eletrônicos,Teclado compacto,1,145.02,145.02
+2025-06,Jun/25,PED-06-005,Caruaru,Casa,Luminária LED,1,104.21,104.21
+2025-06,Jun/25,PED-06-006,Petrolina,Papelaria,Caderno,1,29.95,29.95
+2025-06,Jun/25,PED-06-007,Olinda,Acessórios,Bolsa,3,142.74,428.22
+2025-06,Jun/25,PED-06-008,Recife,Eletrônicos,Teclado compacto,2,150.61,301.22
+2025-06,Jun/25,PED-06-009,Caruaru,Casa,Luminária LED,5,100.81,504.05
+2025-06,Jun/25,PED-06-010,Petrolina,Papelaria,Caderno,2,30.92,61.84
+2025-06,Jun/25,PED-06-011,Olinda,Acessórios,Bolsa,4,134.70,538.80
+2025-06,Jun/25,PED-06-012,Recife,Eletrônicos,Teclado compacto,1,152.76,152.76
+2025-06,Jun/25,PED-06-013,Caruaru,Casa,Luminária LED,3,98.98,296.94
+2025-06,Jun/25,PED-06-014,Petrolina,Papelaria,Caderno,4,31.21,124.84
+2025-06,Jun/25,PED-06-015,Olinda,Acessórios,Bolsa,1,142.81,142.81
+2025-06,Jun/25,PED-06-016,Recife,Eletrônicos,Teclado compacto,1,142.00,142.00
+2025-06,Jun/25,PED-06-017,Caruaru,Casa,Luminária LED,3,103.50,310.50
+2025-06,Jun/25,PED-06-018,Petrolina,Papelaria,Caderno,1,29.00,29.00
+2025-07,Jul/25,PED-07-001,Petrolina,Papelaria,Caneta premium,2,19.99,39.98
+2025-07,Jul/25,PED-07-002,Olinda,Acessórios,Capa protetora,2,29.62,59.24
+2025-07,Jul/25,PED-07-003,Recife,Eletrônicos,Fone Bluetooth,3,129.32,387.96
+2025-07,Jul/25,PED-07-004,Caruaru,Casa,Cafeteira,1,218.40,218.40
+2025-07,Jul/25,PED-07-005,Petrolina,Papelaria,Caneta premium,5,18.94,94.70
+2025-07,Jul/25,PED-07-006,Olinda,Acessórios,Capa protetora,5,31.11,155.55
+2025-07,Jul/25,PED-07-007,Recife,Eletrônicos,Fone Bluetooth,1,136.55,136.55
+2025-07,Jul/25,PED-07-008,Caruaru,Casa,Cafeteira,2,211.09,422.18
+2025-07,Jul/25,PED-07-009,Petrolina,Papelaria,Caneta premium,4,19.86,79.44
+2025-07,Jul/25,PED-07-010,Olinda,Acessórios,Capa protetora,4,31.34,125.36
+2025-07,Jul/25,PED-07-011,Recife,Eletrônicos,Fone Bluetooth,2,128.01,256.02
+2025-07,Jul/25,PED-07-012,Caruaru,Casa,Cafeteira,4,213.70,854.80
+2025-07,Jul/25,PED-07-013,Petrolina,Papelaria,Caneta premium,4,19.39,77.56
+2025-07,Jul/25,PED-07-014,Olinda,Acessórios,Capa protetora,5,30.48,152.40
+2025-07,Jul/25,PED-07-015,Recife,Eletrônicos,Fone Bluetooth,4,124.52,498.08
+2025-07,Jul/25,PED-07-016,Caruaru,Casa,Cafeteira,3,212.45,637.35
+2025-07,Jul/25,PED-07-017,Petrolina,Papelaria,Caneta premium,1,20.09,20.09
+2025-07,Jul/25,PED-07-018,Olinda,Acessórios,Capa protetora,5,28.32,141.60
+2025-08,Ago/25,PED-08-001,Olinda,Acessórios,Bolsa,3,132.47,397.41
+2025-08,Ago/25,PED-08-002,Recife,Eletrônicos,Teclado compacto,5,149.48,747.40
+2025-08,Ago/25,PED-08-003,Caruaru,Casa,Luminária LED,5,95.79,478.95
+2025-08,Ago/25,PED-08-004,Petrolina,Papelaria,Caderno,5,28.39,141.95
+2025-08,Ago/25,PED-08-005,Olinda,Acessórios,Bolsa,2,132.66,265.32
+2025-08,Ago/25,PED-08-006,Recife,Eletrônicos,Teclado compacto,1,153.05,153.05
+2025-08,Ago/25,PED-08-007,Caruaru,Casa,Luminária LED,2,98.75,197.50
+2025-08,Ago/25,PED-08-008,Petrolina,Papelaria,Caderno,5,28.99,144.95
+2025-08,Ago/25,PED-08-009,Olinda,Acessórios,Bolsa,5,132.17,660.85
+2025-08,Ago/25,PED-08-010,Recife,Eletrônicos,Teclado compacto,1,148.45,148.45
+2025-08,Ago/25,PED-08-011,Caruaru,Casa,Luminária LED,5,100.68,503.40
+2025-08,Ago/25,PED-08-012,Petrolina,Papelaria,Caderno,3,31.46,94.38
+2025-08,Ago/25,PED-08-013,Olinda,Acessórios,Bolsa,2,142.75,285.50
+2025-08,Ago/25,PED-08-014,Recife,Eletrônicos,Teclado compacto,3,145.20,435.60
+2025-08,Ago/25,PED-08-015,Caruaru,Casa,Luminária LED,4,95.47,381.88
+2025-08,Ago/25,PED-08-016,Petrolina,Papelaria,Caderno,3,29.75,89.25
+2025-08,Ago/25,PED-08-017,Olinda,Acessórios,Bolsa,1,131.66,131.66
+2025-08,Ago/25,PED-08-018,Recife,Eletrônicos,Teclado compacto,5,158.87,794.35
+2025-09,Set/25,PED-09-001,Recife,Eletrônicos,Fone Bluetooth,1,123.25,123.25
+2025-09,Set/25,PED-09-002,Caruaru,Casa,Cafeteira,2,220.06,440.12
+2025-09,Set/25,PED-09-003,Petrolina,Papelaria,Caneta premium,2,20.93,41.86
+2025-09,Set/25,PED-09-004,Olinda,Acessórios,Capa protetora,1,31.26,31.26
+2025-09,Set/25,PED-09-005,Recife,Eletrônicos,Fone Bluetooth,3,126.55,379.65
+2025-09,Set/25,PED-09-006,Caruaru,Casa,Cafeteira,4,228.71,914.84
+2025-09,Set/25,PED-09-007,Petrolina,Papelaria,Caneta premium,3,20.17,60.51
+2025-09,Set/25,PED-09-008,Olinda,Acessórios,Capa protetora,5,28.13,140.65
+2025-09,Set/25,PED-09-009,Recife,Eletrônicos,Fone Bluetooth,5,126.77,633.85
+2025-09,Set/25,PED-09-010,Caruaru,Casa,Cafeteira,1,231.48,231.48
+2025-09,Set/25,PED-09-011,Petrolina,Papelaria,Caneta premium,2,19.34,38.68
+2025-09,Set/25,PED-09-012,Olinda,Acessórios,Capa protetora,1,30.77,30.77
+2025-09,Set/25,PED-09-013,Recife,Eletrônicos,Fone Bluetooth,2,126.35,252.70
+2025-09,Set/25,PED-09-014,Caruaru,Casa,Cafeteira,5,212.26,1061.30
+2025-09,Set/25,PED-09-015,Petrolina,Papelaria,Caneta premium,3,19.19,57.57
+2025-09,Set/25,PED-09-016,Olinda,Acessórios,Capa protetora,3,29.92,89.76
+2025-09,Set/25,PED-09-017,Recife,Eletrônicos,Fone Bluetooth,3,136.22,408.66
+2025-09,Set/25,PED-09-018,Caruaru,Casa,Cafeteira,1,209.14,209.14
+2025-10,Out/25,PED-10-001,Caruaru,Casa,Luminária LED,4,103.85,415.40
+2025-10,Out/25,PED-10-002,Petrolina,Papelaria,Caderno,1,28.12,28.12
+2025-10,Out/25,PED-10-003,Olinda,Acessórios,Bolsa,2,142.20,284.40
+2025-10,Out/25,PED-10-004,Recife,Eletrônicos,Teclado compacto,3,143.81,431.43
+2025-10,Out/25,PED-10-005,Caruaru,Casa,Luminária LED,4,100.52,402.08
+2025-10,Out/25,PED-10-006,Petrolina,Papelaria,Caderno,4,30.12,120.48
+2025-10,Out/25,PED-10-007,Olinda,Acessórios,Bolsa,1,132.77,132.77
+2025-10,Out/25,PED-10-008,Recife,Eletrônicos,Teclado compacto,2,150.72,301.44
+2025-10,Out/25,PED-10-009,Caruaru,Casa,Luminária LED,3,100.89,302.67
+2025-10,Out/25,PED-10-010,Petrolina,Papelaria,Caderno,2,29.65,59.30
+2025-10,Out/25,PED-10-011,Olinda,Acessórios,Bolsa,1,136.68,136.68
+2025-10,Out/25,PED-10-012,Recife,Eletrônicos,Teclado compacto,1,157.08,157.08
+2025-10,Out/25,PED-10-013,Caruaru,Casa,Luminária LED,2,102.08,204.16
+2025-10,Out/25,PED-10-014,Petrolina,Papelaria,Caderno,1,29.37,29.37
+2025-10,Out/25,PED-10-015,Olinda,Acessórios,Bolsa,5,146.35,731.75
+2025-10,Out/25,PED-10-016,Recife,Eletrônicos,Teclado compacto,4,158.42,633.68
+2025-10,Out/25,PED-10-017,Caruaru,Casa,Luminária LED,2,105.00,210.00
+2025-10,Out/25,PED-10-018,Petrolina,Papelaria,Caderno,2,31.21,62.42
+2025-11,Nov/25,PED-11-001,Petrolina,Papelaria,Caneta premium,2,20.81,41.62
+2025-11,Nov/25,PED-11-002,Olinda,Acessórios,Capa protetora,1,28.75,28.75
+2025-11,Nov/25,PED-11-003,Recife,Eletrônicos,Fone Bluetooth,3,134.30,402.90
+2025-11,Nov/25,PED-11-004,Caruaru,Casa,Cafeteira,4,227.88,911.52
+2025-11,Nov/25,PED-11-005,Petrolina,Papelaria,Caneta premium,2,19.34,38.68
+2025-11,Nov/25,PED-11-006,Olinda,Acessórios,Capa protetora,1,29.48,29.48
+2025-11,Nov/25,PED-11-007,Recife,Eletrônicos,Fone Bluetooth,1,135.49,135.49
+2025-11,Nov/25,PED-11-008,Caruaru,Casa,Cafeteira,2,211.97,423.94
+2025-11,Nov/25,PED-11-009,Petrolina,Papelaria,Caneta premium,4,19.54,78.16
+2025-11,Nov/25,PED-11-010,Olinda,Acessórios,Capa protetora,2,28.91,57.82
+2025-11,Nov/25,PED-11-011,Recife,Eletrônicos,Fone Bluetooth,2,128.32,256.64
+2025-11,Nov/25,PED-11-012,Caruaru,Casa,Cafeteira,3,229.51,688.53
+2025-11,Nov/25,PED-11-013,Petrolina,Papelaria,Caneta premium,3,19.54,58.62
+2025-11,Nov/25,PED-11-014,Olinda,Acessórios,Capa protetora,5,29.54,147.70
+2025-11,Nov/25,PED-11-015,Recife,Eletrônicos,Fone Bluetooth,5,127.27,636.35
+2025-11,Nov/25,PED-11-016,Caruaru,Casa,Cafeteira,1,209.75,209.75
+2025-11,Nov/25,PED-11-017,Petrolina,Papelaria,Caneta premium,3,19.13,57.39
+2025-11,Nov/25,PED-11-018,Olinda,Acessórios,Capa protetora,3,28.24,84.72
+2025-12,Dez/25,PED-12-001,Olinda,Acessórios,Bolsa,5,138.80,694.00
+2025-12,Dez/25,PED-12-002,Recife,Eletrônicos,Teclado compacto,3,148.76,446.28
+2025-12,Dez/25,PED-12-003,Caruaru,Casa,Luminária LED,5,95.29,476.45
+2025-12,Dez/25,PED-12-004,Petrolina,Papelaria,Caderno,5,28.79,143.95
+2025-12,Dez/25,PED-12-005,Olinda,Acessórios,Bolsa,1,143.41,143.41
+2025-12,Dez/25,PED-12-006,Recife,Eletrônicos,Teclado compacto,1,150.26,150.26
+2025-12,Dez/25,PED-12-007,Caruaru,Casa,Luminária LED,5,102.14,510.70
+2025-12,Dez/25,PED-12-008,Petrolina,Papelaria,Caderno,2,29.41,58.82
+2025-12,Dez/25,PED-12-009,Olinda,Acessórios,Bolsa,1,147.44,147.44
+2025-12,Dez/25,PED-12-010,Recife,Eletrônicos,Teclado compacto,3,152.12,456.36
+2025-12,Dez/25,PED-12-011,Caruaru,Casa,Luminária LED,1,102.53,102.53
+2025-12,Dez/25,PED-12-012,Petrolina,Papelaria,Caderno,3,29.93,89.79
+2025-12,Dez/25,PED-12-013,Olinda,Acessórios,Bolsa,4,136.98,547.92
+2025-12,Dez/25,PED-12-014,Recife,Eletrônicos,Teclado compacto,3,150.88,452.64
+2025-12,Dez/25,PED-12-015,Caruaru,Casa,Luminária LED,2,98.95,197.90
+2025-12,Dez/25,PED-12-016,Petrolina,Papelaria,Caderno,4,30.54,122.16
+2025-12,Dez/25,PED-12-017,Olinda,Acessórios,Bolsa,2,141.84,283.68
+2025-12,Dez/25,PED-12-018,Recife,Eletrônicos,Teclado compacto,3,148.21,444.63
